@@ -27,4 +27,7 @@ int main(void) {
           printf(" (aluno em recuperacao).");
        else
       printf(" (aluno reprovado).");
+
+printf("\nJan Ramos Passou Por Aqui xD");
+
 }
